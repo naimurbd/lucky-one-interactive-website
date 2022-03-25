@@ -1,56 +1,56 @@
 [
     {
-        "id": "1",
-        "picture": "https://www.freepik.com/premium-photo/smartphone-with-earphones_13060117.htm#query=iphone&position=12&from_view=search",
-        "price": 15893,
-        "name": "Finch Madden"
+        "id": "623e007cc6bca92e2894ae6a",
+        "picture": "https://images.unsplash.com/photo-1575695342320-d2d2d2f9b73f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c21hcnQlMjBwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 70893,
+        "name": "Iphone"
     },
     {
         "id": "623def63d1ab1a500f169b72",
-        "picture": "https://www.freepik.com/free-photo/phone-screen-with-abstract-marble-aesthetic_19002991.htm#query=phone&position=1&from_view=search",
-        "price": 3879,
-        "name": "Wise Anderson"
+        "picture": "https://images.unsplash.com/photo-1595941069915-4ebc5197c14a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHNtYXJ0JTIwcGhvbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "price": 30879,
+        "name": "Huawei"
     },
     {
         "id": "623def637c3f0694ad91183c",
-        "picture": "http://placehold.it/32x32",
-        "price": 19211,
-        "name": "Mayer Mcmillan"
+        "picture": "https://oasis.opstatics.com/content/dam/oasis/page/2021/operation/1217/homepage/mo/02-OnePlus-9.jpg",
+        "price": 55211,
+        "name": "One Plus"
     },
     {
-        "id": "623def639a03e6a9d0fb9f2a",
-        "picture": "http://placehold.it/32x32",
-        "price": 15560,
-        "name": "Jacobson Terrell"
+        "id": "62def639a03e6a9d0fb9f2a",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZehX43Bzb-MyIUitA3UgrDXSA0SrA75MAw&usqp=CAU",
+        "price": 2556,
+        "name": "Walton"
     },
     {
-        "id": "623def634e32223d95ecf1b4",
-        "picture": "http://placehold.it/32x32",
-        "price": 1895,
-        "name": "Harriet Underwood"
+        "id": "63def634e32223d95ecf1b4",
+        "picture": "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/a15s/navigation/A15s-navigation-white-v2.png.thumb.webp",
+        "price": 18950,
+        "name": "Oppo A15"
     },
     {
-        "id": "623def634e32223d95ecf1b4",
-        "picture": "http://placehold.it/32x32",
-        "price": 1895,
-        "name": "Harriet Underwood"
-    },
-    {
-        "id": "623def634e32223d95ecf1b4",
-        "picture": "http://placehold.it/32x32",
-        "price": 1895,
-        "name": "Harriet Underwood"
+        "id": "23def634e32223d95ecf1b4",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAqeW_gDGduPoVkI4YiRdgFFjIz1VANEyx1Q&usqp=CAU",
+        "price": 16995,
+        "name": "Realme"
     },
     {
         "id": "623def634e32223d95ecf1b4",
-        "picture": "http://placehold.it/32x32",
-        "price": 1895,
-        "name": "Harriet Underwood"
+        "picture": "https://i01.appmifile.com/webfile/globalimg/0320/TO-B/web-small-banner/RN-10-small-banner-new.jpg?width=398&height=230&160516",
+        "price": 22895,
+        "name": "Xiaomi"
     },
     {
-        "id": "623def634e32223d95ecf1b4",
-        "picture": "http://placehold.it/32x32",
-        "price": 1895,
-        "name": "Harriet Underwood"
+        "id": "623def634e32223d95ecf14",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo1WJlVPEStOjsAiRDwAIUxHHrzyWz4PsWaw&usqp=CAU",
+        "price": 19995,
+        "name": "Vivo"
+    },
+    {
+        "id": "623def634e32223d95ecf1b",
+        "picture": "https://www.zdnet.com/a/img/resize/bc8ac3dd499f3080a3df4beaa0e6e1ebad88ce69/2022/02/09/e6a99146-db4d-49c1-b7fe-f503142a40e3/best-phone.jpg?width=1200&fit=bounds&auto=webp",
+        "price": 14995,
+        "name": "Tecno"
     }
 ]

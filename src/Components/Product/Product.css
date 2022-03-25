@@ -1,0 +1,16 @@
+.product{
+    width: 300px;
+    height: 510px;
+}
+
+.product img{
+    width: 286px;
+    height: 286px;
+}
+.product-name{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+}
