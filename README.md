@@ -1,5 +1,5 @@
 # lucky-one-naimurbd
 
 
-live site: [site-link] (https://peppy-bonbon-91315c.netlify.app/)
+[site-link] live site: https://peppy-bonbon-91315c.netlify.app/
 
