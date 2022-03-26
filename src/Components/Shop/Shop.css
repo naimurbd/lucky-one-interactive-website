@@ -1,7 +1,7 @@
 .shop-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
-    /* margin: 100px  50px; */
+ 
 }
 .products-container{
     display: grid;
@@ -11,7 +11,7 @@
 }
  .cart-container{
      background-color: blanchedalmond;
-   /* position: relative; */
+   
     border: 1px solid #95A0A7;
     border-radius: 8px;
     margin-right: 50px; 
