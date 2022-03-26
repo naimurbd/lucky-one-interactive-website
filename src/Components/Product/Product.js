@@ -1,8 +1,12 @@
+import { faMobileAndroid } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import './Product.css'
 
 const Product = (props) => {
-    const { name, picture, price } = props.product;
+    const { product, handleAddToCart } = props;
+    const { name, picture, price } = product;
+
     return (
         <div className='product'>
             <img src={picture} alt="" />
@@ -10,8 +14,9 @@ const Product = (props) => {
                 <p className='product-name'>{name}</p>
                 <p>Price: {price}</p>
             </div>
-            <button className='btn-cart'>
-                <p>  Add to cart </p>
+            <button onClick={() => handleAddToCart(product)} className='btn-cart'>
+                <p className='btn-text'>  Add to cart </p>
+                <FontAwesomeIcon icon={faMobileAndroid}></FontAwesomeIcon>
             </button>
         </div>
     );
