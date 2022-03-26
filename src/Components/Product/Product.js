@@ -12,7 +12,7 @@ const Product = (props) => {
             <img src={picture} alt="" />
             <div className='product-info'>
                 <p className='product-name'>{name}</p>
-                <p>Price: {price}</p>
+                <p>Price: ${price}</p>
             </div>
             <button onClick={() => handleAddToCart(product)} className='btn-cart'>
                 <p className='btn-text'>  Add to cart </p>
